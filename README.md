@@ -1,4 +1,4 @@
-# TaxOnt
+# TaxRefOnt
 Ontology for Taxonomic Reference Systems
 
 
